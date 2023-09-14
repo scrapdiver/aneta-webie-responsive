@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	color: #444444;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+}
+
+@import 'navigation.scss';
+@import 'header.scss';
+@import 'heading.scss';
+@import 'process.scss';
+@import 'skills.scss';
+@import 'portfolio.scss';
+@import 'about.scss';
+@import 'social.scss';
+@import 'contact.scss';
+@import 'footer.scss';
+
+
+
+
