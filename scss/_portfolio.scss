@@ -25,11 +25,11 @@
 }
 
 .portfolio__item_highlighted:hover {
-	box-shadow: 2px 2px 20px 0px rgba(68, 68, 68, 1);
+	box-shadow: $box-shadow2;
 }
 
 .portfolio__item_highlighted:hover .button {
-	box-shadow: 2px 2px 8px 0px rgba(68, 68, 68, 0.75);
+	box-shadow: $box-shadow1;
 }
 
 .portfolio__img {

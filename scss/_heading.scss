@@ -8,7 +8,7 @@
 	color: #ffffff;
 	background-color: #54be90;
 	border-radius: 0.5rem;
-	box-shadow: 2px 2px 8px 0px rgba(68, 68, 68, 0.5);
+	box-shadow: $box-shadow;
 	font-size: 1.25rem;
 	text-align: center;
 	text-decoration: none;
@@ -17,5 +17,5 @@
 }
 
 .button:hover {
-	box-shadow: 2px 2px 8px 0px rgba(68, 68, 68, 0.75);
+	box-shadow: $box-shadow1;
 }
