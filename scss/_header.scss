@@ -5,27 +5,20 @@
 	text-align: center;
 	margin-top: 20vh;
 	padding-top: 10rem;
-}
-
-.header__title {
-	font-size: 4rem;
-	font-weight: normal;
-	margin-bottom: 0;
-}
-
-.header__desc {
-	font-size: 3rem;
-	font-weight: normal;
-	margin-top: 0;
-}
-
-.header__link {
-	color: #54be90;
-	border-bottom: 5px solid #ebebeb;
-	font-weight: bold;
-	text-decoration: none;
-}
-
-.header__link:hover {
-	opacity: 0.8;
+		&__title {
+		font-size: 4rem;
+		font-weight: normal;
+		margin-bottom: 0;		
+	}   &__desc {
+		font-size: 3rem;
+		font-weight: normal;
+		margin-top: 0;
+	}	&__link {
+		color: #54be90;
+		border-bottom: 5px solid #ebebeb;
+		font-weight: bold;
+		text-decoration: none;
+	}	&__link:hover {
+		opacity: 0.8;
+	}
 }
